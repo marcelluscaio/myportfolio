@@ -5,7 +5,15 @@ Usar typescript
 sass
 lint, prettier e husky
 
+Portfolio - Menu lateral com linha na vertical
+https://www.youtube.com/watch?v=LkZPd0oRlMQ
 
+Props and utility classes with sass
+https://www.youtube.com/watch?v=gP8yFWCTr7Q&list=PL4-IK0AVhVjMYRhK9vRPatSlb-9r0aKgh&index=5
+
+
+Doc
+https://gomakethings.com/how-to-document-object-properties-with-jsdoc/
 
 # Astro Starter Kit: Basics
 
