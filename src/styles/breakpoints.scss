@@ -1,0 +1,25 @@
+$px480: calc(480em / 16);
+$px720: calc(720em / 16);
+$px1200: calc(1200em / 16);
+
+body {
+	background-color: green;
+}
+
+@media (min-width: $px480) {
+	body {
+		background-color: blue;
+	}
+}
+
+@media (min-width: $px720) {
+	body {
+		background-color: red;
+	}
+}
+
+@media (min-width: $px1200) {
+	body {
+		background-color: yellowgreen;
+	}
+}
