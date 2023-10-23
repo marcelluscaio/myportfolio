@@ -1,5 +1,9 @@
 - [ ] Configure Prettier, EsLint and Husky
-- [ ] Configure fonts with Sass
+- [ ] Use sass only for mixins
+      https://www.youtube.com/watch?v=7ruDsUN4-iA&t=15s
+      https://sass-lang.com/documentation/at-rules/mixin/
+      https://sass-lang.com/documentation/at-rules/function/
+
 - [ ] See Joshs book
 
 https://www.youtube.com/watch?v=acgIGT0J99U
@@ -32,6 +36,9 @@ Meu portfolio
 - Minimalismo
 - Svg
 - Algo vertical fixo
+
+Ver o do Felipe
+https://www.melodev.link/
 
 Sessao experience dele - https://chaseohlson.com/
 (Vertical)
